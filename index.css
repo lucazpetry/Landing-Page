@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+  }
+
+
+body {
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(https://i.ibb.co/3fhXXGd/background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+
+  
+  }
+
+h1 {
+font-family: 'Cinzel';
+font-weight: 700;
+font-size: 64px;
+line-height: 86px;
+color: #151718;
+}
+
+  h1 span{
+color: #DB2777;
+  }
+  
+p {
+    font-size: 16px;
+    line-height: 19px;
+    color: black;
+    padding-top: 4;
+    margin-bottom: 76px ;
+}
+
+a {
+  font-family: 'Cinzel';
+    padding: 16pX 32px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    opacity: .8;
+    border-radius: 45px;
+    }
+a.btn-1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    opacity: .9;
+
+  }
+
+  a:hover,
+  .btn-2 {
+    text-decoration: none;
+    color:  white;
+    background-color: #DB2777;
+    opacity: 1;
+  }
